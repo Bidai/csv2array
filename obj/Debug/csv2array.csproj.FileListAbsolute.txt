@@ -1,0 +1,14 @@
+C:\CTF\Projects\git\csv2array\csv2array\bin\Debug\csv2array.exe.config
+C:\CTF\Projects\git\csv2array\csv2array\bin\Debug\csv2array.exe
+C:\CTF\Projects\git\csv2array\csv2array\bin\Debug\csv2array.pdb
+C:\CTF\Projects\git\csv2array\csv2array\obj\Debug\csv2array.csprojAssemblyReference.cache
+C:\CTF\Projects\git\csv2array\csv2array\obj\Debug\csv2array.csproj.CoreCompileInputs.cache
+C:\CTF\Projects\git\csv2array\csv2array\obj\Debug\csv2array.exe
+C:\CTF\Projects\git\csv2array\csv2array\obj\Debug\csv2array.pdb
+C:\CTF\Projects\git\csv2array\bin\Debug\csv2array.exe.config
+C:\CTF\Projects\git\csv2array\bin\Debug\csv2array.exe
+C:\CTF\Projects\git\csv2array\bin\Debug\csv2array.pdb
+C:\CTF\Projects\git\csv2array\obj\Debug\csv2array.csprojAssemblyReference.cache
+C:\CTF\Projects\git\csv2array\obj\Debug\csv2array.csproj.CoreCompileInputs.cache
+C:\CTF\Projects\git\csv2array\obj\Debug\csv2array.exe
+C:\CTF\Projects\git\csv2array\obj\Debug\csv2array.pdb
